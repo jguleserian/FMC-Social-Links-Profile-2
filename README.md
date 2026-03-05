@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [See my solution on GitHub](https://github.com/jguleserian/FMC-Social-Links-Profile-2)
+- Live Site URL: [Live Site](https://jguleserian.github.io/FMC-Social-Links-Profile-2/)
 
 ## My process
 
