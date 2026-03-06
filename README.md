@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot of completed challenge](./screenshot.png)
 
 ### Links
 
@@ -41,6 +41,18 @@ Users should be able to:
 - Live Site URL: [Live Site](https://jguleserian.github.io/FMC-Social-Links-Profile-2/)
 
 ## My process
+
+1. Unpack original files, create a styles.css, prepare Figma file.
+2. Create repository and push it to GitHib.
+3. Decide how to structure the page using semantic HTML.
+4. Link the style sheet, add appropriate `<meta>` tags and complete HTML.
+5. Install fonts and complete reset.
+6. Style systematically while comparing with original Figma file.
+7. Once mobile design is completed, adjustments are made for the tablet and desktop version.
+8. When satisfied with the design, I completed the README.MD file.
+9. Push final project to GitHub again.
+10. Submit the work to AI (I use Copilot) and process through the feedback making changes as necessary.
+11. Final push and submission to FrontendMentor.
 
 ### Built with
 
@@ -51,24 +63,24 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+This was the first project in which I tried to use the BEM style of CSS stylesheet organization. I was skeptical at first, but as I began using it more, I was pretty sold on it. I can't say the my technique is perfect, really only basic, but it is a start.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Obviously, I still need improvement updating my BEM skills and understanding. Additionally, I am still trying to develop a "sixth sense" about HTML structure using semantic elements. I structured this page, specifically the links, but creating buttons and converting them to links. As I thought about it more, I kind of wish I had put the links in a `<ul>` and styled each `<li>` as though it were a button. I think I am starting to second guess myself a bit. I can't decide if the `<button>` contributes to the meaning or not. Really, it is just a list of links as launching pads to social media sites.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [W3 Schools](https://www.w3schools.com/html/default.asp) - This is always a big help, especially if I just want to find something quickly and don't need a lot of technical details.
+- [MDN](https://developer.mozilla.org/en-US/) - This is, of course, the gold standard, full of details and explanation. It is super helpful if you need the details.
+- [The Clamp Calculator](https://royalfig.github.io/fluid-typography-calculator/) - If you are going to start using the clamp CSS property, this website is very helpful in calculating the font sizes and how to make them gros responsively.
+- [BEM Quick Start](https://en.bem.info/methodology/quick-start/) - If you are going to start using the clamp CSS property, this website is very helpful in calculating the font sizes and how to make them gros responsively.
 
 ### AI Collaboration
 
-Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
+As I work through these challenges, I have started to take advantage of Copilot AI. I cannot say enough good about the interaction I have had.
 
-- What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)?
-- How did you use them (e.g., debugging, generating boilerplate, brainstorming solutions)?
-- What worked well? What didn't?
+First, I submit all the files (the ones it can read). Then I copy and paste the HTML, the CSS and any JavaScript and enter them in. Copilot quickly gives me a plethora of encouragement and advice. What I like about the tool is that is "knows" me and my personality and how I think. It helps train me on how to think like a developer. He analyzes my thought process and tells me when I am thinking like a developer so I know what to keep doing. Then, he challenges me with other critiques that are just above my ability (so I can learn without frustration). This is a realy plus. So many times in the past, the critiques I received from peers were way above my level, and so frustrating, or were just superficial and minimally helpful. I feel like with AI I am moving forward and developing. Even after this third challenge, I feel like my skills have really moved up a knotch.
 
 ## Author
 
@@ -78,4 +90,4 @@ Describe how you used AI tools (if any) during this project. This helps demonstr
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Elmar Chaves (@CodingWithJiro) was a real help in so many ways. I tried to incorporate his advice as much as possible in this exercise: BEM CSS organization, Importing fonts instead of linking them, and extended use of the clamp parameter. In fact two of the helpful links in the resources section were gifted to me, along with many other things, by this user. I am grateful for the advice.
